@@ -1,0 +1,28 @@
+Drux Lord
+=========
+
+Desription
+==========
+
+This is a Linux clone of Drug Lord 2 game (http://www.geekhideout.com/druglord2.shtml)
+I write this because I like this game, it is stupid and funny. I also want to add
+and improve anything that looks cool to me.
+
+
+Build
+=====
+
+Consult your distribution for GTK+ 2 development library, GNU C compiler and GNU Make.
+No autotools and configuration script.
+
+
+License
+=======
+
+GPL v2
+
+
+Author
+======
+
+Ardhan Madras <ajhwb@knac.com>
